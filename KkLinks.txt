@@ -1,0 +1,19 @@
+https://www.google.com/search?q=cricbuzz+LIFECYCLE&source=lmns&bih=750&biw=1612&hl=en&sa=X&ved=2ahUKEwiBz_aS-e77AhV8_TgGHXh3AS4Q_AUoAHoECAEQAA
+https://economictimes.indiatimes.com/tech/internet/cricbuzz-got-1-billion-visits-during-world-cup-data/articleshow/47102895.cms
+https://www.cricbuzz.com/
+https://www.similarweb.com/website/cricbuzz.com/#overview
+https://www.linkedin.com/in/ashish-prabhu-18ab78102/?originalSubdomain=in
+application development sample report search
+https://www.studocu.com/en-gb/document/university-of-east-london/mobile-application-development/final-report-for-mobile-application-development/14456795
+https://www.slideshare.net/SashaZavala/final-app-development-report-done
+https://www.businessofapps.com/insights/how-to-deliver-a-mobile-app-project-step-by-step/
+https://idapgroup.com/blog/role-of-project-manager-in-app-development-process/#:~:text=Project%20Manager's%20main%20responsibilities&text=The%20project%20manager%20is%20a,and%20escalating%20any%20issues%20appropriately.
+https://www.onedesk.com/project-management-app-development/
+how does cricbuzz get data
+https://medium.com/@narengowda/cricinfo-cricbuzz-system-design-c596e8506669#:~:text=they%20use%20Redis%20queues%20which,be%20posted%20to%20that%20queue.&text=WebSocket%20connection%20from%20the%20client,is%20Redis%20queue%20to%20clients.
+https://www.similarweb.com/website/cricinfo.com/#overview
+https://www.google.com/search?q=cRICBUZZ+story&oq=cRICBUZZ+story+&aqs=chrome..69i57j0i22i30j0i390l5.8223j0j15&sourceid=chrome&ie=UTF-8
+cricbuzz wiki
+api basic search
+https://apimetrics.io/api-knowledge-base/rest-api/
+https://hevodata.com/learn/api-vs-rest-api/#:~:text=The%20primary%20goal%20of%20API,interact%20via%20an%20HTTP%20protocol.
