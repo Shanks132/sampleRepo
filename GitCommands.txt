@@ -114,3 +114,18 @@ $ git merge <branch name to be merge>
 
 *note :  VS CODE gives option to select and resolve merge conflicts *
 
+46)To check all branches with their last commit hash code and message
+$ git branch -v
+
+47)To check which branch are merged
+$ git branch --merged
+
+48)To check which branch are not merged
+$ git branch --no-merged
+
+49)To delete branch
+$ git branch -d <branch-name>  
+
+50)TO delete unmerged branch
+$ git branch -D <branch-name>
+
